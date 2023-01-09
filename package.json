@@ -1,6 +1,6 @@
 {
   "name": "typescript-mutex-decorator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Makes sure a method is called only once at a time and queues all subsequent requests, good for talking to robots",
   "main": "build/mutex.js",
   "types": "main.d.ts",
