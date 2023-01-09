@@ -28,6 +28,7 @@
   },
   "publishConfig": {},
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git@github.com:melletron/typescript-mutex-decorator.git"
   }
 }
